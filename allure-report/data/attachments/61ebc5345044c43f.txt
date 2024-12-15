@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.widget.TextView[@text=\"Copyright © 2024 Elfie Pte. Ltd.\"]"
+}

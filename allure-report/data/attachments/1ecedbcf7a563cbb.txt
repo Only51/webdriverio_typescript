@@ -1,0 +1,6 @@
+{
+  "mode": "getSimilarity",
+  "firstImage": "F:\\webdriverio\\webdriverio-mobile-tests\\reports\\html-reports\\screenshots\\xMenuBaseline.png",
+  "secondImage": "F:\\webdriverio\\webdriverio-mobile-tests\\reports\\html-reports\\screenshots\\xMenuActual.png",
+  "options": {}
+}

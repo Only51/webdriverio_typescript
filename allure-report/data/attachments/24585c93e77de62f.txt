@@ -1,0 +1,47 @@
+{
+  "actions": [
+    {
+      "id": "action1",
+      "type": "key",
+      "parameters": {},
+      "actions": [
+        {
+          "type": "keyDown",
+          "value": "D"
+        },
+        {
+          "type": "keyDown",
+          "value": "o"
+        },
+        {
+          "type": "keyDown",
+          "value": "n"
+        },
+        {
+          "type": "keyDown",
+          "value": "e"
+        },
+        {
+          "type": "pause",
+          "duration": 10
+        },
+        {
+          "type": "keyUp",
+          "value": "D"
+        },
+        {
+          "type": "keyUp",
+          "value": "o"
+        },
+        {
+          "type": "keyUp",
+          "value": "n"
+        },
+        {
+          "type": "keyUp",
+          "value": "e"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.view.View[@resource-id=\"tsf\"]/android.view.View[1]/android.widget.EditText"
+}
