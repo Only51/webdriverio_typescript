@@ -1,4 +1,0 @@
-{
-  "script": "\n            var __defProp = Object.defineProperty;var __name = function (target, value) { return __defProp(target, 'name', { value: value, configurable: true }); };var __globalThis = (typeof globalThis === 'object' && globalThis) || (typeof window === 'object' && window);__globalThis.__name = __name;\n            return (()=>document.readyState===\"complete\").apply(null, arguments)\n        ",
-  "args": []
-}
